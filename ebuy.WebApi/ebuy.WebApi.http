@@ -1,0 +1,6 @@
+@ebuy.WebApi_HostAddress = http://localhost:5269
+
+GET {{ebuy.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
